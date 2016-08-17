@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[测试方法已经验证通过test]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="30" started-at="2016-08-12T03:11:29Z" finished-at="2016-08-12T03:11:29Z">
+    <groups>
+    </groups>
+    <test name="test1" duration-ms="30" started-at="2016-08-12T03:11:29Z" finished-at="2016-08-12T03:11:29Z">
+      <class name="testDemo.Script.testDemo">
+        <test-method status="PASS" signature="testHello(java.lang.String, java.lang.String)[pri:0, instance:testDemo.Script.testDemo@7ca48474]" name="testHello" duration-ms="9" started-at="2016-08-12T11:11:29Z" finished-at="2016-08-12T11:11:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abcdefg]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[higklmn]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[测试方法已经验证通过test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testHello -->
+      </class> <!-- testDemo.Script.testDemo -->
+    </test> <!-- test1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>

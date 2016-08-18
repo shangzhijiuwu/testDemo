@@ -63,7 +63,8 @@
                 <configuration>
                     <suiteXmlFiles>
                         <suiteXmlFile>${xmlFileName}</suiteXmlFile>
-                        <!--<suiteXmlFile>res/test.xml</suiteXmlFile>-->
+                        <suiteXmlFile>${xmlFileName1}</suiteXmlFile>
+                        <!--<suiteXmlFile>res/test.xml,res/test1.xml</suiteXmlFile>-->
                     </suiteXmlFiles>
                     <properties>
                         <property>

@@ -65,6 +65,8 @@
                         <!--${test}-->
                         <!--<suiteXmlFile>res/test.xml</suiteXmlFile>-->
                         ${test_demo}
+                        ${test_demo1}
+
                     </suiteXmlFiles>
                     <properties>
                         <property>

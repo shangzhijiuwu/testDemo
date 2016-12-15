@@ -20,6 +20,7 @@ public class testDemo {
     public void testHello(String test1,String test2){
 
         Assert.assertEquals(me.sayYes(test1),"abcdefg");
+        Assert.assertEquals(me.sayYes(test2),"higklmn");
         Assert.assertEquals(me.sayHello(),"Hello Wujing");
         Reporter.log("测试方法已经验证通过test");
     }

@@ -62,7 +62,8 @@
                 <version>2.18.1</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFile>res/test.xml</suiteXmlFile>
+                        ${test}
+                        <!--<suiteXmlFile>res/test.xml</suiteXmlFile>-->
                     </suiteXmlFiles>
                     <properties>
                         <property>

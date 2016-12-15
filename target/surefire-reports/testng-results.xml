@@ -5,12 +5,12 @@
       <![CDATA[测试方法已经验证通过test]]>
     </line>
   </reporter-output>
-  <suite name="Suite1" duration-ms="30" started-at="2016-08-12T03:11:29Z" finished-at="2016-08-12T03:11:29Z">
+  <suite name="Suite1" duration-ms="39" started-at="2016-12-15T08:59:48Z" finished-at="2016-12-15T08:59:48Z">
     <groups>
     </groups>
-    <test name="test1" duration-ms="30" started-at="2016-08-12T03:11:29Z" finished-at="2016-08-12T03:11:29Z">
+    <test name="test1" duration-ms="39" started-at="2016-12-15T08:59:48Z" finished-at="2016-12-15T08:59:48Z">
       <class name="testDemo.Script.testDemo">
-        <test-method status="PASS" signature="testHello(java.lang.String, java.lang.String)[pri:0, instance:testDemo.Script.testDemo@7ca48474]" name="testHello" duration-ms="9" started-at="2016-08-12T11:11:29Z" finished-at="2016-08-12T11:11:29Z">
+        <test-method status="PASS" signature="testHello(java.lang.String, java.lang.String)[pri:0, instance:testDemo.Script.testDemo@7ca48474]" name="testHello" duration-ms="8" started-at="2016-12-15T16:59:48Z" finished-at="2016-12-15T16:59:48Z">
           <params>
             <param index="0">
               <value>

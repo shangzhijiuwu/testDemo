@@ -64,7 +64,7 @@
                     <suiteXmlFiles>
                         <!--${test}-->
                         <suiteXmlFile>res/test1.xml</suiteXmlFile>
-                        ${test}
+                        <!--${test}-->
                     </suiteXmlFiles>
                     <properties>
                         <property>

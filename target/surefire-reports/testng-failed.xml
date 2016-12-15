@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite2]">
+  <parameter name="test2" value="higklm"/>
+  <parameter name="test1" value="abcdef"/>
+  <test name="test1(failed)">
+    <parameter name="test2" value="higklm"/>
+    <parameter name="test1" value="abcdef"/>
+    <classes>
+      <class name="testDemo.Script.testDemo">
+        <methods>
+          <include name="testHello" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- testDemo.Script.testDemo -->
+    </classes>
+  </test> <!-- test1(failed) -->
+</suite> <!-- Failed suite [Suite2] -->

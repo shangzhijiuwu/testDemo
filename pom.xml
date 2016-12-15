@@ -63,8 +63,8 @@
                 <configuration>
                     <suiteXmlFiles>
                         <!--${test}-->
-                        <suiteXmlFile>res/test1.xml</suiteXmlFile>
-                        <!--${test}-->
+                        <suiteXmlFile>res/test.xml</suiteXmlFile>
+                        ${test_demo}
                     </suiteXmlFiles>
                     <properties>
                         <property>

@@ -62,11 +62,12 @@
                 <version>2.18.1</version>
                 <configuration>
                     <suiteXmlFiles>
+                        <!--<file>res/test.xml</file>-->
+                        <!--<file>res/test.xml</file>-->
+                        <xmlFile>res/testng.xml</xmlFile>
                         <!--${test}-->
-                        <!--<suiteXmlFile>res/test.xml</suiteXmlFile>-->
-                        ${test_demo}
-                        ${test_demo1}
-
+                        <!--<suiteXmlFile>res/test1.xml</suiteXmlFile>-->
+                        <!--${test_demo}-->
                     </suiteXmlFiles>
                     <properties>
                         <property>

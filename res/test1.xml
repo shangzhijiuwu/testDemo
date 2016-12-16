@@ -2,7 +2,7 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 <suite name="Suite2">
     <test name="test1">
-        <parameter name="test1" value="abcdef"/>
+        <parameter name="test1" value="${testEnv}"/>
         <parameter name="test2" value="higklm"/>
         <classes>
             <class name="testDemo.Script.testDemo"/>

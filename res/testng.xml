@@ -1,12 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="执行指定的">
-    <suite-files>
-        <!--<suite-file path="test1.xml"></suite-file>-->
-        ${test}
-        <!--<suite-file path="test.xml"></suite-file>-->
-    </suite-files>
-    <suite-files>
-
-    </suite-files>
-</suite>
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!--<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">-->
+<!--<suite name="执行指定的">-->
+    <!--<suite-files>-->
+        <!--&lt;!&ndash;<suite-file path="test1.xml"></suite-file>&ndash;&gt;-->
+        <!--<suite-file path=${test}></suite-file>-->
+    <!--</suite-files>-->
+<!--</suite>-->
